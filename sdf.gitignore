@@ -89,3 +89,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+local.properties
+
+
